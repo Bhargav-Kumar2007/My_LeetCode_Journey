@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Bit Manipulation
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
