@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0089-gray-code) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0633-sum-of-square-numbers](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0633-sum-of-square-numbers) |
