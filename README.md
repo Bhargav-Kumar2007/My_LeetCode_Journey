@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0043-multiply-strings) |
+| [0065-valid-number](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0065-valid-number) |
 | [0093-restore-ip-addresses](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0093-restore-ip-addresses) |
 | [0567-permutation-in-string](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0567-permutation-in-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
