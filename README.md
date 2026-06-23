@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0023-merge-k-sorted-lists) |
 ## Backtracking
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0061-rotate-list) |
 ## Math
@@ -122,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0029-divide-two-integers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
