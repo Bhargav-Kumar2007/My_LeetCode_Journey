@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0229-majority-element-ii) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3011-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0229-majority-element-ii](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0229-majority-element-ii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0229-majority-element-ii) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3011-find-if-array-can-be-sorted) |
 ## Counting
 |  |
