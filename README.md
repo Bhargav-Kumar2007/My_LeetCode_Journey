@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0229-majority-element-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3011-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0043-multiply-strings) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2553-separate-the-digits-in-an-array) |
 ## Design
 |  |
 | ------- |
