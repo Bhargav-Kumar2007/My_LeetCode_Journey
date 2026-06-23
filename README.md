@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0633-sum-of-square-numbers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0089-gray-code) |
+| [0633-sum-of-square-numbers](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0633-sum-of-square-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
