@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0089-gray-code) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3011-find-if-array-can-be-sorted) |
 ## Rolling Hash
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0089-gray-code](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0093-restore-ip-addresses) |
 ## Recursion
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0089-gray-code) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
