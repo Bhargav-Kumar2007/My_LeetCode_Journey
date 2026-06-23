@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0074-search-a-2d-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
