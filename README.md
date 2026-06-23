@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0093-restore-ip-addresses) |
 | [0567-permutation-in-string](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0567-permutation-in-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2785-sort-vowels-in-a-string](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2785-sort-vowels-in-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3163-string-compression-iii](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3163-string-compression-iii) |
 ## Bit Manipulation
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0229-majority-element-ii) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2785-sort-vowels-in-a-string](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2785-sort-vowels-in-a-string) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3011-find-if-array-can-be-sorted) |
 ## Counting
 |  |
