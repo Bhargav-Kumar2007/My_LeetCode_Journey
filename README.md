@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Bit Manipulation
 |  |
 | ------- |
