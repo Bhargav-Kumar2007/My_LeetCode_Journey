@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0229-majority-element-ii](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0229-majority-element-ii) |
 | [0567-permutation-in-string](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0567-permutation-in-string) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -154,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
