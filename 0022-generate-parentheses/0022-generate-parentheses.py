@@ -1,8 +1,6 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         st={"()"}
-        if n==1:
-            return list(st)
         for i in range(n-1):
             ts=set()
             for j in st:
