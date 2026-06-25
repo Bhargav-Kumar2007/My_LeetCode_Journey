@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0229-majority-element-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0567-permutation-in-string](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0567-permutation-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0065-valid-number) |
 | [0093-restore-ip-addresses](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0093-restore-ip-addresses) |
 | [0567-permutation-in-string](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0567-permutation-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2785-sort-vowels-in-a-string](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2785-sort-vowels-in-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0229-majority-element-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
