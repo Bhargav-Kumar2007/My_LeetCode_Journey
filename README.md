@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0229-majority-element-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [1732-find-the-highest-altitude](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1732-find-the-highest-altitude) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3011-find-if-array-can-be-sorted) |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
