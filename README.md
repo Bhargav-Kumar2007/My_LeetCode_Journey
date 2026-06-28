@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3011-find-if-array-can-be-sorted) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3838-weighted-word-mapping](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0089-gray-code) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0633-sum-of-square-numbers](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0633-sum-of-square-numbers) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
