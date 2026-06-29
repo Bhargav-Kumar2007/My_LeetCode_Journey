@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0229-majority-element-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [1732-find-the-highest-altitude](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1732-find-the-highest-altitude) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3011-find-if-array-can-be-sorted) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2785-sort-vowels-in-a-string](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2785-sort-vowels-in-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3163-string-compression-iii](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3163-string-compression-iii) |
