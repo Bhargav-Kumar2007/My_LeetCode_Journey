@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0686-repeated-string-match) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0042-trapping-rain-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0135-candy) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0686-repeated-string-match) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
