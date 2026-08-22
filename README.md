@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0633-sum-of-square-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
