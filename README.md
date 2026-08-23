@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1927-sum-game](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2785-sort-vowels-in-a-string](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2785-sort-vowels-in-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0135-candy) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1927-sum-game](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1927-sum-game) |
 ## Sorting
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0089-gray-code) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0633-sum-of-square-numbers](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0633-sum-of-square-numbers) |
+| [1927-sum-game](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1927-sum-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
