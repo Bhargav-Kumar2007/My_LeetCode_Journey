@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3011-find-if-array-can-be-sorted) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3838-weighted-word-mapping](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
