@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0739-daily-temperatures) |
 | [1732-find-the-highest-altitude](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Bhargav-Kumar2007/My_LeetCode_Journey/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
