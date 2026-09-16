@@ -6,18 +6,16 @@ class Solution:
         sd={}
         ls=[]
         lsn=0
-        n=0
         for i in range(ln):
-            n+=1
             mx=0
             while ls:
-                if temperatures[ls[-1][0]]<temperatures[i]:
+                if temperatures[ls[-1]]<temperatures[i]:
                     a=ls.pop()
-                    sd[a[0]]=n-a[1]
+                    sd[a]=i-a
                     lsn-=1
                 else:
                     break
-            ls.append((i,n))
+            ls.append(i)
             lsn+=1
         res=[]
         for i in range(ln):
