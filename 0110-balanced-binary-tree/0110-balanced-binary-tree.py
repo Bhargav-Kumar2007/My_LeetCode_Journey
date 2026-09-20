@@ -20,5 +20,8 @@ class Solution:
             return 1+max(l,r)
         counter(root)
         if self.maxdiff>1:
-            return False
-        return True
+            ans=False
+        else:
+            ans=True
+        self.maxdiff=0
+        return ans
